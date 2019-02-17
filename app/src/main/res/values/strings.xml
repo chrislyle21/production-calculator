@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">ProductionCalculator</string>
+    <string name="app_name">Production calculator</string>
+    <string name="check_profile_length">Enter profile length\n(6 or 6.5 metres)</string>
+    <string name="full_stillages">Total number of stillages</string>
+    <string name="six_metre_button">6 metres</string>
+    <string name="six_and_a_half_metre_button">6.5 metres</string>
+    <string name="previous_shift_count">Pervious shifts\nfinal check</string>
+    <string name="final_check">Current shifts\nfinal check</string>
+    <string name="execute_button">Calculate\nproduction</string>
+    <string name="lengthPerStillage">Lengths per stillage</string>
 </resources>
